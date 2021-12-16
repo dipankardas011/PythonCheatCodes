@@ -16,11 +16,19 @@ if(toppings):
     print("Has toppings\n")
 else:
     print("no toppings\n")
-# C has NULL
-# C++ has nullptr & NULL
-# JAVA has null
-# Python has none
+# C has NULL & ❌ this
+# C++ has nullptr & NULL & this
+# JAVA has null & this
+# Python has none & self  
+# no class data members in Python
 
+# __init__() is the constructor in Python
+# public:   <className>() is constructor in C++
+# public <className>() is constructor in Java
+
+# super() in Java
+# super().__init__() in Python
+# public:   <className>():<BaseClass>(){} in C++
 
 
 # dict within dict
